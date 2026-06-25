@@ -1,0 +1,21 @@
+# 루트 저장소 .gitignore
+#
+# 각 코드랩 폴더는 "독립 git 저장소"이며, 원격에 올린 뒤 submodule로 연결합니다.
+# submodule 연결 전까지는 루트가 이 폴더들의 내부 파일을 추적하지 않도록 무시합니다.
+# (scripts/setup-submodules.sh 실행 후에는 .gitmodules가 이들을 submodule로 관리)
+
+# 코드랩 챕터들 (submodule 전환 전 무시)
+/week01_dart_basics/
+/week02_widgets_layout/
+/week03_input_list_nav/
+/week04_bloc_intro/
+/week05_clean_architecture/
+/week06_di_repository_local/
+/mindnote/
+
+# macOS
+.DS_Store
+
+# 에디터
+.idea/
+.vscode/
