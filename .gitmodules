@@ -1,0 +1,21 @@
+[submodule "week01_dart_basics"]
+	path = week01_dart_basics
+	url = https://github.com/SangWook16074/week01_dart_basics.git
+[submodule "week02_widgets_layout"]
+	path = week02_widgets_layout
+	url = https://github.com/SangWook16074/week02_widgets_layout.git
+[submodule "week03_input_list_nav"]
+	path = week03_input_list_nav
+	url = https://github.com/SangWook16074/week03_input_list_nav.git
+[submodule "week04_bloc_intro"]
+	path = week04_bloc_intro
+	url = https://github.com/SangWook16074/week04_bloc_intro.git
+[submodule "week05_clean_architecture"]
+	path = week05_clean_architecture
+	url = https://github.com/SangWook16074/week05_clean_architecture.git
+[submodule "week06_di_repository_local"]
+	path = week06_di_repository_local
+	url = https://github.com/SangWook16074/week06_di_repository_local.git
+[submodule "mindnote"]
+	path = mindnote
+	url = https://github.com/SangWook16074/mindnote.git
